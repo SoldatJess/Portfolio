@@ -224,6 +224,10 @@ table > tbody > tr > th:last-child {
     border-bottom-right-radius: 8px;
 }
 
+tr > th > a > img {
+    margin: 0px;
+}
+
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
 
 ol {
